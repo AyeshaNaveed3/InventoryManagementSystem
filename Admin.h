@@ -21,4 +21,4 @@ public:
 	void loadFromFile();
  };
 
-#endif//ADMIN_H
+#endif
